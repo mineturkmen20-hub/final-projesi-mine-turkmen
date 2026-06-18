@@ -149,7 +149,7 @@ Bu projede Claude (Anthropic) yapay zeka asistanı aşağıdaki aşamalarda kull
 Tüm kod incelenmiş, test edilmiş ve Mine Türkmen tarafından çalıştırılmıştır.
 
 ## Tanıtım Videosu
-[Video bağlantısı eklenecek]
+https://youtu.be/bACaXuDaJEc
 
 ## Veri Kaynağı
 Kaggle — Telco Customer Churn (blastchar)  
